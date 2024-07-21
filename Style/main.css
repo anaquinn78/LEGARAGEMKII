@@ -161,7 +161,8 @@ main{
     }
 
     .ico{
-        max-width: 400px;
+        max-width: 370px;
+        text-align: center;
     }
 
     footer{
