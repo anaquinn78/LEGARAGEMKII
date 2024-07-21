@@ -139,8 +139,8 @@ main{
 @media (max-width: 1200px) {
 
     header{
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
         text-align: center;
     }
 
@@ -149,15 +149,24 @@ main{
     }
 
     main {
-        margin-left: 20px;
-        margin-right: 20px;   
+        margin-left: 10px;
+        margin-right: 10px;   
     }
 
-    .galeria{margin-bottom: 20px;}
+    .galeria{margin-bottom: 10px;}
+
+    .galleria{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .ico{
+        max-width: 400px;
+    }
 
     footer{
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
 }
